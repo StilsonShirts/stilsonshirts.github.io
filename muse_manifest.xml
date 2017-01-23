@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="stilsonshirts.com" resolutions="1x" timestamp="1485199725141">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="stilsonshirts.com" resolutions="1x" timestamp="1485199948622">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4203607963" ref="index"/>
@@ -14,6 +14,7 @@
   <folder name="images">
     <file name="stilsonshirts-closed.svg" crc="4077956452" seo="true" ref="index"/>
     <file name="stilsonshirts closed_poster_.png" crc="503906612" ref="index"/>
+    <file name="favicon.ico" crc="153816312" ref="index"/>
   </folder>
-  <file name="index.html" crc="4268843841" seo="true" mt="1485199714381" redirect="true"/>
+  <file name="index.html" crc="4199694133" seo="true" mt="1485199883380" redirect="true"/>
 </manifest>
